@@ -1,0 +1,3 @@
+- 👋 Hi, We are TestTactix
+- 🌱 We are Empowering Quality Assurance Engineers: Upskill, Innovate, Succeed.
+- 📫 You can reach us at https://linktr.ee/TestTactix 
